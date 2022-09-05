@@ -1,6 +1,6 @@
 vendor: kubeasy
 name: kubeasy
-version: 1.14
+version: 1.15
 website_url: https://github.com/buxiaomo/kubeasy
 repo_url: https://github.com/buxiaomo/kubeasy
 documentation_url: https://github.com/buxiaomo/kubeasy/README.md
