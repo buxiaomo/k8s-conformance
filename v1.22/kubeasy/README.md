@@ -15,7 +15,7 @@ for a High-Availability Kubernetes Cluster, read [more](https://github.com/buxia
 (1) Download 'kubeasy' code
 
 ```
-yum install git make vim -y
+apt-get install git make vim -y
 git clone -b v1.22 https://github.com/buxiaomo/kubeasy.git /usr/local/src/kubeasy
 cd /usr/local/src/kubeasy
 make runtime
