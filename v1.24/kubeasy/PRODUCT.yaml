@@ -1,0 +1,9 @@
+vendor: kubeasy
+name: kubeasy
+version: 1.24
+website_url: https://github.com/buxiaomo/kubeasy
+repo_url: https://github.com/buxiaomo/kubeasy
+documentation_url: https://github.com/buxiaomo/kubeasy/README.md
+product_logo_url: https://raw.githubusercontent.com/buxiaomo/kubeasy/main/images/kubeasy.svg
+type: installer
+description: 'Deploy a Production Ready Kubernetes Cluster with ansible playbooks'
